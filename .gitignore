@@ -1,1 +1,4 @@
 takvimi-pdf/
+.DS_Store
+*.pyc
+*.log

@@ -4,6 +4,6 @@ services:
   takvimi-api:
     build: .
     ports:
-      - "5000:5000"
+      - "3010:3010"
     volumes:
       - .:/app
